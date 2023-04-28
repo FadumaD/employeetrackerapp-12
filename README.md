@@ -4,7 +4,8 @@
 This project allows a business to easily see all their employes name, job roles, department, salary and manger. This make it very easy to see add and take new people away from this database.  
 
 
-## Run the Project: firstly npm i inquirer@8.2.4 is required to be installed to run this application 
+## Run the Project:
+firstly npm i inquirer@8.2.4 is required to be installed to run this application 
 This project can be run by node . The application will the show the data.
 
 ##User Story 
